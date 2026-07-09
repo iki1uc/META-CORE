@@ -1,1 +1,9 @@
+{
+  "id": "META-CORE",
+  "version": "1.0",
+  "type": "core",
+  "description": "Dachmodul für 9hoch9 und 81_81_1",
+  "status": "active",
+  "source": ["9hoch9", "81_81_1"]
+}
 
